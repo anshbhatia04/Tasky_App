@@ -4,7 +4,6 @@
   }
   
   body {
-    /* #ebf2ff; */
     background-color: #acd0f7 !important;
   }
   
@@ -12,7 +11,7 @@
     position: fixed;
     bottom: 0;
     right: 0;
-    padding: 15px 12px;
+    padding: 15px 10px;
     background-color: rgb(255, 0, 0);
     width: 100%;
     z-index: 3;
