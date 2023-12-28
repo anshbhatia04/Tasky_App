@@ -1,0 +1,23 @@
+{
+  "name": "tasky-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshbhatia04/Tasky_App.git"
+  },
+  "author": "ansh bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshbhatia04/Tasky_App/issues"
+  },
+  "homepage": "https://github.com/anshbhatia04/Tasky_App#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
